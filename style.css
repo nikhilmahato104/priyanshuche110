@@ -5,10 +5,12 @@ html {
 * {
     margin: 0;
     padding: 0;
+    //ading the maargin and padding for t=he complete the web page 
+    
 }
 
 .hero-section {
-   
+   //hero section means the change the hero section of the page.
     background-image: url("images/first.png");
     background-repeat: no-repeat;
     box-sizing: border-box;
